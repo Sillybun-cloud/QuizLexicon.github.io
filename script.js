@@ -574,7 +574,7 @@ const quizArtData = [
       `;
     }
     resultTipContainer.innerHTML = `
-      <p>You scored ${scoreTip} out of ${quizTipData.length}!</p>
+      <p>Молодец, ты получил ${scoreTip} из ${quizTipData.length}!</p>
       <p>Твои варианты ответов:</p>
       ${incorrectAnswersHtmlTip}
     `;
