@@ -426,7 +426,7 @@ const quizArtData = [
       `;
     }
     resultContainer.innerHTML = `
-      <p>You scored ${score} out of ${quizData.length}!</p>
+      <p>Молодец, ты набрал ${score} из ${quizData.length}!</p>
       <p>Твои варианты ответов:</p>
       ${incorrectAnswersHtml}
     `;
