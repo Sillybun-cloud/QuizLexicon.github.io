@@ -7,6 +7,7 @@ body {
   flex-wrap: wrap;
   gap: 30px;
 }
+
 .parametrHead{
   /* height: 15vh; */
   display: flex;
@@ -47,7 +48,13 @@ body {
 } */
 
 
-@media (min-width: 320px) and (max-width: 1024px) {
+@media (min-width: 320px) and (max-width: 992px) {
+  .conteinerPlease{
+    display: none;
+  }
+  p{
+    display: none;
+  }
   h1 {
     margin: 0;
     font-size: 5vh;
@@ -70,6 +77,7 @@ body {
     text-align: center;
     color: #728c25;
   }
+  
 
   .patternPic{
     display: flex;
@@ -165,7 +173,7 @@ body {
   .container {
     border: #738b2b;
     width: 85%;
-    height: 65.6vh;
+    height: 67vh;
     padding: 20px;
     margin-top: 0.5vh;
     background-color: #fcf8ef;
