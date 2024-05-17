@@ -569,7 +569,7 @@ const quizArtData = [
         <p>
           <strong>Вопрос:</strong> ${incorrectAnswersTip[i].questionTip}<br>
           <strong>Твой ответ:</strong> ${incorrectAnswersTip[i].incorrectAnswerTip}<br>
-          <strong>Верный вариант:</strong> ${incorrectAnswersTip[i].correctAnswerip}
+          <strong>Верный вариант:</strong> ${incorrectAnswersTip[i].correctAnswerTip}
         </p>
       `;
     }
