@@ -634,7 +634,7 @@ body {
   margin-top: 0.2vh;
   margin-bottom: 1.8vh;
   font-weight: bold;
-} 
+  } 
 
  .resultTip{
   display: none;
@@ -648,7 +648,7 @@ body {
   margin-bottom: 1.8vh;
   font-weight: bold;
 }
-.resultArt{
+  .resultArt{
   display: none;
   color: #3b3c08;
   width: 38vh;
@@ -659,7 +659,7 @@ body {
   margin-top: 0.2vh;
   margin-bottom: 1.8vh;
   font-weight: bold;
-}
+  }
 
 
  .hide{
@@ -670,9 +670,7 @@ body {
    display: none;
  } 
 
-
  .infoAbout{
-
     position: fixed;
     bottom: 0;
     left: 0;
