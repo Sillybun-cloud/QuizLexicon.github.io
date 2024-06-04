@@ -301,7 +301,7 @@ body {
  .result {
    display: none;
    color: #30114f;
-   width: 38vh;
+   width: auto;
    height: 40vh;
    overflow: auto;
    text-align: center;
@@ -313,7 +313,7 @@ body {
  .resultLib {
     display: none;
     color: #35420d;
-    width: 38vh;
+    width: auto;
     height: 40vh;
     overflow: auto;
     text-align: center;
@@ -326,7 +326,7 @@ body {
   .resultTip{
     display: none;
     color: #0d2342;
-    width: 38vh;
+    width: auto;
     height: 40vh;
     overflow: auto;
     text-align: center;
@@ -338,7 +338,7 @@ body {
   .resultArt{
     display: none;
     color: #3b3c08;
-    width: 38vh;
+    width: auto;
     height: 40vh;
     overflow: auto;
     text-align: center;
