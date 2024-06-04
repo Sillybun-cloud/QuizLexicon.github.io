@@ -293,7 +293,7 @@ const quizArtData = [
   const showAnswerArtButton = document.getElementById('showAnswerArt');
 
   
-
+ 
   const backToCategoryPartButton = document.getElementById('toCategoryPart');
   const backToCategoryPart1Button = document.getElementById('toCategoryPart1');
   const backToCategoryPart2Button = document.getElementById('toCategoryPart2');
