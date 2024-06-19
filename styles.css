@@ -371,7 +371,7 @@ body {
 }
 
 
-@media (min-width:1024px){
+@media (min-width:900px){
   .infoAbout{
     display: none;
   }
