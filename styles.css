@@ -445,9 +445,9 @@ body {
     /* display: none; */
     border: #738b2b;
     width: 85%;
-    height: 70vh;
+    height: 60vh;
     padding: 15px;
-    margin-top: 1vh;
+    /* margin-top: 1vh; */
     margin-bottom: 0.2vh; 
     background-color: #fcf8ef;
     box-shadow: 0 5px 10px rgba(94, 114, 46, 0.671);
@@ -489,9 +489,9 @@ body {
     /* display: none; */
     border: #738b2b;
     width: 90%;
-    height: 86vh;
+    height: 60vh;
     padding: 20px;
-    margin-top: 2vh;
+    /* margin-top: 2vh; */
     background-color: #fcf8ef;
     box-shadow: 0 5px 10px rgba(94, 114, 46, 0.671);
     border-radius: 50px;
@@ -500,14 +500,14 @@ body {
   .categorBtn{
     /* display: none; */
     font-family: 'Montserrat', sans-serif;
-    margin: 1% 10%;
+    margin: 1% 15%;
     display: inline-block;
-    height: 7.4vh;
+    height: 5.4vh;
     background-color: #cad684;
     color: #697c13;
     border: none;
     cursor: pointer;
-    font-size: 3.6vh;
+    font-size: 3vh;
     border-radius: 30px;
     transition: background-color 0.3s;
   }
@@ -516,9 +516,9 @@ body {
     /* display: none; */
     border: #738b2b;
     width: 85%;
-    height: 64vh;
+    height: 60vh;
     padding: 20px;
-    margin-top: 3vh;
+    /* margin-top: 3vh; */
     background-color: #fcf8ef;
     box-shadow: 0 5px 10px rgba(94, 114, 46, 0.671);
     border-radius: 50px;
@@ -651,8 +651,8 @@ body {
  .result {
   display: none;
   color: #3d0c1c;
-  width: 38vh;
-  height: 40vh;
+  /* width: 38vh; */
+  height: 30vh;
   overflow: auto;
   text-align: center;
   margin-left: 1.4vh;
@@ -663,8 +663,8 @@ body {
  .resultLib {
   display: none;
   color: #35420d;
-  width: 38vh;
-  height: 40vh;
+  /* width: 38vh; */
+  height: 30vh;
   overflow: auto;
   text-align: center;
   margin-left: 1.4vh;
@@ -676,8 +676,8 @@ body {
  .resultTip{
   display: none;
   color: #0d2342;
-  width: 38vh;
-  height: 40vh;
+  /* width: 38vh; */
+  height: 30vh;
   overflow: auto;
   text-align: center;
   margin-left: 1.4vh;
@@ -688,8 +688,8 @@ body {
   .resultArt{
   display: none;
   color: #3b3c08;
-  width: 38vh;
-  height: 40vh;
+  /* width: 38vh; */
+  height: 30vh;
   overflow: auto;
   text-align: center;
   margin-left: 1.4vh;
