@@ -57,7 +57,7 @@ body {
   }
   h1 {
     margin: 0;
-    font-size: 5vh;
+    font-size: 4vh;
     text-align: center;
     color: #94b436;
   }
@@ -236,6 +236,7 @@ body {
 
  .question {
    font-weight: bold;
+   font-size: 1.6vh;
    margin-bottom: 15px;
    color: #984a69;
  }
